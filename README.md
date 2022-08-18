@@ -1,6 +1,6 @@
 # shopee_tebak_kata
 
-Tools kunci jawaban Shopee Games Tebak Kata dari level 70-1221,tidak selalu benar.
+Tools kunci jawaban Shopee Games Tebak Kata dari level 70-1221 (tidak selalu benar).
 
 ## Installation
 
