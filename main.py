@@ -6,7 +6,6 @@ ge = req.get(url,headers=head).text
 sop = bs(ge,"lxml")
 while True:
     anuan = int(input('Lvl 70 - 1221: '))
-    # 0 = 70 
     if anuan < 70 or anuan > 1221:
         print('Hanya level 70 - 1221\n')
     else:
